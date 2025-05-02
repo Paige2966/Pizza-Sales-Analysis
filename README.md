@@ -50,8 +50,8 @@ Report [GitHub Projects Board](https://github.com/Paige2966/Pizza-Sales-Analysis
 - Final Dashboard Review
 
 ## 📸 Dashboard Preview
+![image](https://github.com/user-attachments/assets/584d8464-66ad-4c04-9db6-b10053f3ea63)
 
-![image](https://github.com/user-attachments/assets/cd0f2487-e311-4f88-9149-d0aac5774261)
 
 ## 📬 Contact
 
