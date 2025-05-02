@@ -57,7 +57,7 @@ Report [GitHub Projects Board](https://github.com/Paige2966/Pizza-Sales-Analysis
 
 If you have questions or would like to connect:
 
-- GitHub: [@Paige2966]([https://github.com/your-username](https://github.com/Paige2966)
+- GitHub: [@Paige2966][([[[https://github.com/your-username](https://github.com/your-username](https://github.com/Paige2966)](](https://github.com/your-username](https://github.com/Paige2966)](https://github.com/your-username](https://github.com/Paige2966)
 - LinkedIn: [Rachel Paige](https://www.linkedin.com/in/rachel-p-339803204)
 - Email: rachelpaige@yahoo.com
 
