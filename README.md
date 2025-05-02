@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
-This project showcases an end-to-end sales analysis using SQL Server, Excel, and Power BI. The dashboard provides insights into pizza sales performance, customer behavior, and business trends using KPIs and visualizations.
+This project showcases an end-to-end sales analysis using SQL Server, Excel, and Power BI. The dashboard provides insights into pizza sales performance, customer behavior, and business trends using KPIs and visualizations for Jan 15 o Dec 15.
 
 ## 🔧 Tools & Technologies
 
