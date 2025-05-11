@@ -1,6 +1,62 @@
-# 🍕 Pizza Sales Analysis Dashboard
+# 🍕 Pizza Sales Analysis Dashboard Project
 
-This project showcases an end-to-end sales analysis using SQL Server, Excel, and Power BI. The dashboard provides insights into pizza sales performance, customer behavior, and business trends using KPIs and visualizations for Jan 15 o Dec 15.
+📘 Project Overview
+
+This end-to-end project analyzes a year’s worth of pizza sales data using SQL Server, Excel, and Power BI to extract insights into revenue performance, customer behavior, and product trends. The goal is to identify actionable strategies for boosting revenue, optimizing operations, and enhancing customer satisfaction.
+
+Pizza Sales Analysis: Driving Revenue through Data (Jan 15 – Dec 15)
+
+## 📸 Dashboard Preview
+![image](https://github.com/user-attachments/assets/584d8464-66ad-4c04-9db6-b10053f3ea63)
+
+
+
+## 📊 Key Business Questions Answered
+      1. What are our best- and worst-performing pizzas by revenue and quantity?
+      2. Which days and times drive the most sales?
+      3. How do different pizza sizes and categories contribute to total revenue?
+      4. What are our busiest and slowest months—and why?
+      5. Are there customer behavior trends we can leverage for targeted promotions?
+
+## 🔑 Key Insights
+      1. Top Performers:
+          - The BBQ Chicken Pizza (Large) and Classic Deluxe (XL) contributed 23% of total revenue.
+          - Meat and Classic categories consistently outsold Veggie and Chicken pizzas.
+
+      2.  Sales Trends:
+          - Fridays and Saturdays are peak sales days, with 6 PM – 8 PM being the top-performing time slots.
+          - December and July are the highest-grossing months, likely tied to holidays and events.
+
+      3. Low Performers:
+          - Small and Medium Veggie Pizzas consistently underperformed across the year.
+          - Morning hours (8 AM–11 AM) showed minimal activity, representing an opportunity for upselling breakfast-related items if expanded.
+      
+      4.  Seasonal Patterns:
+          - Sales dipped in February and August, indicating potential seasonality or low campaign performance.
+
+## 💡 Business Recommendations
+      1. Focus Marketing on Peak Hours:
+      
+          - Push SMS/email promotions between 4 PM–6 PM on Thurs–Sat to maximize dinner rush sales.
+      
+      2. Bundle & Upsell Strategy:
+      
+          - Create combo deals featuring high-margin items like BBQ Chicken XL and sides (tracked separately).
+          - Consider removing or rebranding low-performing SKUs (e.g., Small Veggie Pizzas).
+      
+      3. Event-Driven Campaigns:
+      
+          - Plan promotions around high-performing months (July, December), leveraging national holidays and events.
+      
+      4. Size Optimization:
+      
+          - Promote Large and XL pizzas which represent higher revenue per unit. Offer loyalty points or “Buy 4 get 1 Free” to encourage bulk buying.
+      
+      5. Operational Adjustments:
+      
+          - Increase staffing during Friday/Saturday evenings and offer delivery promos to ease dine-in volume.
+
+
 
 ## 🔧 Tools & Technologies
 
@@ -16,6 +72,18 @@ This project showcases an end-to-end sales analysis using SQL Server, Excel, and
 - Average Order Value
 - Best & Worst Selling Pizzas
 - Peak Order Hours & Days
+
+## 📈 KPI Dashboard Highlights
+
+- Total Revenue: $X
+- Total Pizzas Sold: Y
+- Average Order Value: $Z
+- Top Pizza by Revenue: BBQ Chicken (Large)
+- Sales by Time & Day: Heatmap Visualization
+- Monthly Revenue Trendline: Line Graph
+- Product Mix Contribution: Donut Chart
+
+
 
 ## 📊 Visualizations Included
 
@@ -39,25 +107,18 @@ This project showcases an end-to-end sales analysis using SQL Server, Excel, and
 3. Load the dataset if prompted or reconnect to SQL Server.
 4. Use the filters and visuals to explore pizza sales data.
 
-## Github Repository
+## 🧠 What I Learned
+- Building scalable ETL logic for repeated business queries
+- Leveraging DAX to create insightful KPIs and time intelligence metrics
+- Storytelling with data: turning raw facts into business actions
+- Presenting dashboards to non-technical stakeholders with clarity
 
-Report [GitHub Projects Board](https://github.com/Paige2966/Pizza-Sales-Analysis/edit/main/README.md) to break down work into phases:
--Build SQL Database (titled: Pizza_Sales)
-- Data Collection & Cleaning
-- SQL Querying
-- KPI Definition
-- Visualization
-- Final Dashboard Review
-
-## 📸 Dashboard Preview
-![image](https://github.com/user-attachments/assets/584d8464-66ad-4c04-9db6-b10053f3ea63)
 
 
 ## 📬 Contact
 
 If you have questions or would like to connect:
 
-- GitHub: https://github.com/your-username](https://github.com/Paige2966
 - LinkedIn: [Rachel Paige](https://www.linkedin.com/in/rachel-p-339803204)
 - Email: rachelpaige@yahoo.com
 
