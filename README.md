@@ -6,6 +6,10 @@ This end-to-end project analyzes a year’s worth of pizza sales data using SQL 
 
 Pizza Sales Analysis: Driving Revenue through Data (Jan 15 – Dec 15)
 
+
+***** List of Queries on separate file within this repository *****
+
+
 ## 📸 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/584d8464-66ad-4c04-9db6-b10053f3ea63)
 
