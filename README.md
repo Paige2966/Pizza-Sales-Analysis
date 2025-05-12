@@ -100,12 +100,7 @@ Pizza Sales Analysis: Driving Revenue through Data (Jan 15 – Dec 15)
 - Analyzed performance by pizza category and size
 - Highlighted customer preferences and high-revenue products
 
-## 🚀 How to Use
 
-1. Clone the repository.
-2. Open `PowerBI_Report.pbix` in Power BI Desktop.
-3. Load the dataset if prompted or reconnect to SQL Server.
-4. Use the filters and visuals to explore pizza sales data.
 
 ## 🧠 What I Learned
 - Building scalable ETL logic for repeated business queries
@@ -117,11 +112,9 @@ Pizza Sales Analysis: Driving Revenue through Data (Jan 15 – Dec 15)
 
 ## 📬 Contact
 
-If you have questions or would like to connect:
+If you’d like to connect or learn more, feel free to [Reach out via LinkedIn](https://www.linkedin.com/in/rachel-p-339803204), call me at: (469) 400-6430 or email me at rachelpaige@yahoo.com.
 
-- LinkedIn: [Rachel Paige](https://www.linkedin.com/in/rachel-p-339803204)
-- Email: rachelpaige@yahoo.com
 
 ---
 
-Feel free to explore the repo. Feedback and collaboration are welcome!
+Feedback is welcomed and I thank you for visiting my repository! 
